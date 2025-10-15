@@ -65,8 +65,8 @@ He builds, designs, and engineers systems that combine **hardware + software** t
 ---
 
 ## 🌐 Connect  
-- 🧭 GitHub: [Domthedev0](https://github.com/domthedev0)  
-- 💼 Website: [DomLabs](https://domthedev0.github.io/domlabs)  
+- 🧭 GitHub: [Domlabs-offiacl](https://github.com/domlabs-offical)  
+- 💼 Website: [DomLabs](https://domlabs-offical.github.io/domlabs)  
 - ✉️ Email: dddnick25.dev@gmail.com 
 
 ---
