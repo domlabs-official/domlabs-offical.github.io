@@ -1,7 +1,7 @@
 remote_theme: devich/quick@0.0.1
 lang: en-US
-bg_color: dark
+bg_color: black
 theme_color: cyan
 title: "DomLabs | Innovating the Future"
-description: "DomLabs is a technology company founded by Dominick David Derenthall, building innovative tools like GuardBox, SnackBot, and DevDock."
-keywords: "DomLabs, Dominick Derenthall, SnackBot, GuardBox, DevDock, AI, Security, Productivity, Innovation"
+description: "DomLabs — created by Dominick Derenthall — builds focused, secure, and intelligent tools like GuardBox, SnackBot, and DevDock."
+keywords: "DomLabs, Dominick Derenthall, SnackBot, GuardBox, DevDock, Security, Productivity, AI, Coding Tools, Tech Company"
