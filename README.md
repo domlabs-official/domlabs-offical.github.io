@@ -1,7 +1,7 @@
 # 🧠 DomLabs  
 ### Innovating the Future — One Project at a Time  
 
-Welcome to **DomLabs**, a technology company created by **Dominick David Derenthall**,  
+Welcome to **DomLabs**, a technology company created by **Dominick Derenthall**,  
 focused on **software, hardware, and innovation**.  
 
 We build tools that make people safer, smarter, and more productive.
@@ -51,7 +51,7 @@ SnackBot lets users input barcode codes manually to **track calories and nutrien
 
 ## 🧩 About the Founder  
 
-**Dominick David Derenthall** — 7th grader, coder, and inventor.  
+**Dominick David Derenthall** — CEO and founder of DomLabs, coder, and inventor.  
 He builds, designs, and engineers systems that combine **hardware + software** to make life smarter.  
 
 **Skills:**  
@@ -65,8 +65,8 @@ He builds, designs, and engineers systems that combine **hardware + software** t
 ---
 
 ## 🌐 Connect  
-- 🧭 GitHub: [DominickDavidDerenthall](https://github.com/YOUR_USERNAME)  
-- 💼 Website: [DomLabs](https://YOUR_USERNAME.github.io/who-i-am)  
-- ✉️ Email: dominick@domlabs.dev *(optional)*  
+- 🧭 GitHub: [Domthedev0](https://github.com/domthedev0)  
+- 💼 Website: [DomLabs](https://domthedev0.github.io/domlabs)  
+- ✉️ Email: dddnick25.dev@gmail.com 
 
 ---
