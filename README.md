@@ -10,7 +10,7 @@ We build tools that make people safer, smarter, and more productive.
 
 ## 🚀 Our Products  
 
-### 🧱 **GuardBox**
+### **GuardBox**
 > A WiFi management and security box for homes, schools, and developers.
 
 GuardBox lets you manage, monitor, and protect your WiFi network easily.  
@@ -24,7 +24,7 @@ It offers full control over **connected devices**, **speed limits**, and **firew
 
 ---
 
-### 💻 **DevDock**
+### **DevDock**
 > A focused development environment that lets you code — and nothing else.
 
 DevDock is designed for **deep work**. Once activated, it **bricks all apps except VS Code**, forcing you to stay focused.  
@@ -36,7 +36,7 @@ DevDock is designed for **deep work**. Once activated, it **bricks all apps exce
 
 ---
 
-### 🍎 **SnackBot**
+### **SnackBot**
 > Your AI-powered nutrition tracker — simple, smart, and barcode-based.  
 
 SnackBot lets users input barcode codes manually to **track calories and nutrients** without scanning or data leaks.  
